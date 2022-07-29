@@ -1,2 +1,2 @@
 # Signal-Clone
-Learning more react-native
+Learn more about ```useEffect()``` 
